@@ -1,0 +1,14 @@
+# Results, recordings and write-ups stay local until the owner approves publishing
+results/
+*.webm
+*.mp4
+# Build / deps
+node_modules/
+dist/
+.vite/
+# Model files are fetched, not committed
+*.task
+*.onnx
+*.tflite
+*.log
+.claude/worktrees/
