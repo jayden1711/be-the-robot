@@ -12,3 +12,7 @@ dist/
 *.tflite
 *.log
 .claude/worktrees/
+CLAUDE.md
+.claude/
+HANDOFF.md
+ORGANIZER.md
